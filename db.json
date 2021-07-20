@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dr.Leanne Graham",
+      "expertise": "Anesthesiologist",
+      "email": "Grahamlee@gmail.com",
+      "phone": "770-736-8031",
+      "hospital": "Wockhart Hospital, Nagpur"
+    },
+    {
+      "id": 2,
+      "name": "Dr.Rohan Sharma",
+      "expertise": "Cardiac surgeon",
+      "email": "rohansharma@gmail.com",
+      "phone": "692-659-9125",
+      "hospital": "Alexis Hospital, Nagpur"
+    },
+    {
+      "id": 3,
+      "name": "Dr.Chitra Deshpande",
+      "expertise": "Cosmetologist",
+      "email": "deshpandechitra@gmail.com",
+      "phone": "963-123-4447",
+      "hospital": "Dew Hospital, Nagpur"
+    },
+    {
+      "id": 5,
+      "name": "Dr.Varada Gokhale",
+      "expertise": "Gynecologist",
+      "email": "gokhale54@gmail.com",
+      "phone": "824-648-3804",
+      "hospital": "Wockhart Hospital, Nagpur"
+    },
+    {
+      "name": "Dr.Ketki Fadnavis",
+      "expertise": "Neuro surgeon",
+      "email": "ketkifadnavis05@gmail.com",
+      "phone": "837-991-8713",
+      "hospital": "Neuron Hospital, Nagpur",
+      "id": 6
+    },
+    {
+      "name": "Dr. Rajan Batra",
+      "expertise": "General Physician",
+      "email": "batrarajan@yahoo.com",
+      "phone": "788-999-0788",
+      "hospital": "Rainbow Hospital, Nagpur",
+      "id": 7
+    }
+  ]
+}
